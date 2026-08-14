@@ -25,7 +25,7 @@ export const siteConfig = {
   name: "ClickForge",
   owner: "Ranjit Tamang",
   role: "AI Marketing Expert & Consultant",
-  email: "rnzitmg@gmail.com",
+  email: "digitalgeni65@gmail.com",
   phone: "+977 9841441002",
   location: "Pharping, Kathmandu, Nepal",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://clickforge.ai",

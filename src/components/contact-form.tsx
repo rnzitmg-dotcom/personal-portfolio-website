@@ -10,7 +10,7 @@ import { serviceOptions } from "@/data/site";
 import { contactSchema, type ContactFormValues } from "@/lib/contact-schema";
 import { cn } from "@/lib/utils";
 
-const formSubmitEndpoint = "https://formsubmit.co/ajax/rnzitmg@gmail.com";
+const formSubmitEndpoint = "https://formsubmit.co/ajax/digitalgeni65@gmail.com";
 
 const budgets = [
   "Under $1,000",
@@ -80,7 +80,7 @@ export function ContactForm() {
         return;
       } catch {
         toast.error(
-          "The message could not be sent right now. Please email rnzitmg@gmail.com directly.",
+          "The message could not be sent right now. Please email digitalgeni65@gmail.com directly.",
         );
       }
     });

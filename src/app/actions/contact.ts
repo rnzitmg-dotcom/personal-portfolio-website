@@ -60,7 +60,7 @@ export async function submitContactForm(
   const {
     EMAIL_USER,
     EMAIL_PASS,
-    CONTACT_EMAIL = "rnzitmg@gmail.com",
+    CONTACT_EMAIL = "digitalgeni65@gmail.com",
   } = process.env;
 
   if (!EMAIL_USER || !EMAIL_PASS) {
@@ -118,7 +118,7 @@ export async function submitContactForm(
     return {
       ok: false,
       message:
-        "The message could not be sent right now. Please try again or email rnzitmg@gmail.com directly.",
+        "The message could not be sent right now. Please try again or email digitalgeni65@gmail.com directly.",
     };
   }
 }
