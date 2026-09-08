@@ -14,10 +14,10 @@ export function BrandLogo({
   return (
     <span className={className}>
       <Image
-        src="/clickforge-logo.png"
-        alt="ClickForge"
-        width={500}
-        height={500}
+        src="/digital-ranjit-logo.png"
+        alt="Digital Ranjit"
+        width={850}
+        height={345}
         priority={priority}
         className={imageClassName}
       />
