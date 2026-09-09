@@ -85,9 +85,9 @@ export default function Home() {
           <MotionReveal delay={0.1} className="flex flex-col justify-center">
             <SectionHeading
               align="left"
-              eyebrow="About ClickForge"
+              eyebrow="About Digital Ranjit"
               title="Premium strategy for brands ready to use AI with purpose."
-              description="ClickForge blends AI systems, brand thinking, SEO, content, and performance marketing into practical growth plans for ambitious businesses."
+              description="Digital Ranjit blends AI systems, brand thinking, SEO, content, and performance marketing into practical growth plans for ambitious businesses."
             />
             <div className="mt-8 grid gap-3 text-slate-300 sm:grid-cols-2">
               {[
@@ -128,7 +128,7 @@ export default function Home() {
 
       <section className="px-4 py-20 sm:px-6 lg:px-8">
         <SectionHeading
-          eyebrow="Why Choose ClickForge"
+          eyebrow="Why Choose Digital Ranjit"
           title="Built for clarity, speed, and measurable impact."
         />
         <div className="mx-auto mt-12 grid max-w-7xl gap-6 md:grid-cols-2 lg:grid-cols-3">

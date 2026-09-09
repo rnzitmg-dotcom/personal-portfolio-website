@@ -70,7 +70,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 px-4 py-5 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} ClickForge. Premium AI marketing consulting
+        © {new Date().getFullYear()} Digital Ranjit. Premium AI marketing consulting
         by Ranjit Tamang.
       </div>
       <div className="sr-only">

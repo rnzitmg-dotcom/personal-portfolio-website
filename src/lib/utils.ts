@@ -6,6 +6,6 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function absoluteUrl(path = "") {
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://clickforge.ai";
+  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://www.ranjittamang.com.np";
   return `${base}${path}`;
 }

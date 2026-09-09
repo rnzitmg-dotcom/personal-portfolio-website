@@ -7,7 +7,7 @@ import { services } from "@/data/site";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "Explore ClickForge services including AI marketing strategy, SEO, performance marketing, brand strategy, lead generation, and automation.",
+    "Explore Digital Ranjit services including AI marketing strategy, SEO, performance marketing, brand strategy, lead generation, and automation.",
   alternates: { canonical: "/services" },
 };
 

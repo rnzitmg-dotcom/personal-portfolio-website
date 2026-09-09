@@ -14,7 +14,7 @@ export function BrandLogo({
   return (
     <span className={className}>
       <Image
-        src="/digital-ranjit-logo.png"
+        src="/digital-ranjit-logo-white.png"
         alt="Digital Ranjit"
         width={850}
         height={345}

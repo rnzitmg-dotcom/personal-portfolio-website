@@ -22,15 +22,15 @@ import {
 } from "lucide-react";
 
 export const siteConfig = {
-  name: "ClickForge",
+  name: "Digital Ranjit",
   owner: "Ranjit Tamang",
   role: "AI Marketing Expert & Consultant",
   email: "digitalgeni65@gmail.com",
   phone: "+977 9841441002",
   location: "Pharping, Kathmandu, Nepal",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://clickforge.ai",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://www.ranjittamang.com.np",
   description:
-    "ClickForge helps ambitious businesses grow with AI-powered marketing strategy, automation, SEO, branding, and performance campaigns.",
+    "Digital Ranjit helps ambitious businesses grow with AI-powered marketing strategy, automation, SEO, branding, and performance campaigns.",
 };
 
 export const navItems = [
@@ -253,7 +253,7 @@ export const testimonials = [
     name: "Maya Gurung",
     role: "Director, Education Brand",
     quote:
-      "ClickForge gave our brand a sharper message and a better content system. The strategy felt premium, practical, and easy for our team to execute.",
+      "Digital Ranjit gave our brand a sharper message and a better content system. The strategy felt premium, practical, and easy for our team to execute.",
   },
   {
     name: "Samir Adhikari",
@@ -368,7 +368,7 @@ export const faqs = [
   ],
   [
     "Do you work with international clients?",
-    "Yes. ClickForge supports businesses in Nepal and global teams through remote consulting and execution support.",
+    "Yes. Digital Ranjit supports businesses in Nepal and global teams through remote consulting and execution support.",
   ],
   [
     "Can you implement automation tools?",

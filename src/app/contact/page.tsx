@@ -8,7 +8,7 @@ import { siteConfig } from "@/data/site";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Book a consultation with ClickForge for AI marketing strategy, automation, SEO, brand strategy, and digital growth.",
+    "Book a consultation with Digital Ranjit for AI marketing strategy, automation, SEO, brand strategy, and digital growth.",
   alternates: { canonical: "/contact" },
 };
 

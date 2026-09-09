@@ -82,7 +82,7 @@ export async function submitContactForm(
 
   try {
     await transporter.sendMail({
-      from: `"ClickForge Website" <${EMAIL_USER}>`,
+      from: `"Digital Ranjit Website" <${EMAIL_USER}>`,
       to: CONTACT_EMAIL,
       replyTo: data.email,
       subject: `New consultation request from ${data.fullName}`,
@@ -98,7 +98,7 @@ export async function submitContactForm(
         data.message,
       ].join("\n"),
       html: `
-        <h2>New ClickForge Consultation Request</h2>
+        <h2>New Digital Ranjit Consultation Request</h2>
         <p><strong>Full Name:</strong> ${data.fullName}</p>
         <p><strong>Email:</strong> ${data.email}</p>
         <p><strong>Phone:</strong> ${data.phone}</p>

@@ -8,7 +8,7 @@ import { blogs, categoryOptions } from "@/data/site";
 export const metadata: Metadata = {
   title: "Blog",
   description:
-    "Read ClickForge insights on AI marketing, SEO, automation, branding, and digital growth strategy.",
+    "Read Digital Ranjit insights on AI marketing, SEO, automation, branding, and digital growth strategy.",
   alternates: { canonical: "/blog" },
 };
 

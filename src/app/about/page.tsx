@@ -9,7 +9,7 @@ import { processSteps, siteConfig, skills, stats, values } from "@/data/site";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Learn about Ranjit Tamang and the mission behind ClickForge, an AI marketing consultancy based in Kathmandu, Nepal.",
+    "Learn about Ranjit Tamang and the mission behind Digital Ranjit, an AI marketing consultancy based in Kathmandu, Nepal.",
   alternates: { canonical: "/about" },
 };
 
@@ -50,7 +50,7 @@ export default function AboutPage() {
               Marketing expertise sharpened by AI systems.
             </h2>
             <p className="mt-6 text-lg leading-8 text-slate-300">
-              ClickForge exists for businesses that want more than scattered
+              Digital Ranjit exists for businesses that want more than scattered
               tactics. Ranjit combines digital consulting, brand strategy, SEO,
               performance marketing, and automation into practical growth
               systems that teams can understand and execute.
